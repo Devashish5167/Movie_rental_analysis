@@ -1,0 +1,29 @@
+Project Overview:
+This project aims to analyze movie rental data from the Sakila database using MySQL. The analysis focuses on understanding customer rental behavior, identifying popular and underperforming movies, and uncovering trends in rental frequency. The queries explore various aspects of the movie rental business, helping stakeholders make data-driven decisions to optimize operations and enhance customer satisfaction.
+
+Key Objectives and Insights:
+
+Film Selection and Pricing:
+
+Querying all films with a rating of PG-13 and a rental rate of $2.99 or lower provides insights into budget-friendly and family-oriented options available to customers.
+Special Features Popularity:
+
+Analyzing films with deleted scenes helps identify which additional content features attract customer interest, potentially guiding decisions on content acquisition or special edition releases.
+Customer Activity and Engagement:
+
+Identifying all active customers helps maintain focus on current engagement, while analyzing customer rental activity on specific dates (e.g., July 26, 2005) can uncover patterns of peak rental days and guide promotional campaigns.
+Counting rentals per day provides a daily rental trend, highlighting high-demand periods.
+Genre Preferences:
+
+Querying all Sci-Fi movies in the catalog helps the business understand the demand for specific genres, assisting in targeted marketing and catalog expansion in popular categories.
+Customer Loyalty and Retention:
+
+Analyzing how many movies each customer has rented so far helps identify loyal customers who can be targeted with retention strategies or loyalty rewards programs.
+Inventory Optimization:
+
+The analysis of movies with less than one lifetime rental provides data to make decisions on discontinuing underperforming films, optimizing inventory, and reducing operational costs.
+Overdue Rentals Management:
+
+Identifying movies that have not yet been returned allows the business to follow up on overdue rentals, ensuring better inventory management and minimizing losses.
+Conclusion:
+The Movie Rental Analysis project provides actionable insights to improve customer satisfaction, optimize inventory, and increase overall rental efficiency. The queries facilitate informed decision-making for various departments, from marketing to operations, ultimately driving better business performance.
